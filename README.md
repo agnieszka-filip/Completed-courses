@@ -14,4 +14,4 @@ A list of online programming courses which I have completed so far.
 - JavaScript Algorithms and Data Structures Certification [Free Code Camp](https://www.freecodecamp.org/learn)
 - JavaScript - The Complete Guide [Udemy](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)
 - JavaScript30 Challenge [Wes Bos](https://javascript30.com/)
-- CS50: Introduction to Computer Science[edX](https://online-learning.harvard.edu/course/cs50-introduction-computer-science)
+- CS50: Introduction to Computer Science [edX](https://online-learning.harvard.edu/course/cs50-introduction-computer-science)
